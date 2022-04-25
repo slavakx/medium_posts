@@ -2,3 +2,4 @@ results
 imgs
 *.code-workspace
 .ipynb_checkpoints
+*.parquet
