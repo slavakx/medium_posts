@@ -3,3 +3,5 @@ imgs
 *.code-workspace
 .ipynb_checkpoints
 *.parquet
+internal
+iframe_figures
