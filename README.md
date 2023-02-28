@@ -13,4 +13,4 @@ Repository containing notebooks of my posts on <a href='https://medium.com/@slav
 * [Improving Marketing Mix Modeling Using Machine Learning Approaches](https://towardsdatascience.com/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b)
 * [Modeling Marketing Mix with Constrained Coefficients](https://towardsdatascience.com/modeling-marketing-mix-with-constrained-coefficients-234b23190ee2)
 
-* [Practical Approaches to Optimizng Budget in Marketing Mix Modeling]()
+* [Practical Approaches to Optimizng Budget in Marketing Mix Modeling](https://medium.com/towards-data-science/practical-approaches-to-optimizng-budget-in-marketing-mix-modeling-7816a27f2f71)
