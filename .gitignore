@@ -5,3 +5,4 @@ imgs
 *.parquet
 internal
 iframe_figures
+.vscode

@@ -11,6 +11,9 @@ Repository containing notebooks of my posts on <a href='https://medium.com/@slav
 * [Modeling Marketing Mix Using Smoothing Splines](https://towardsdatascience.com/modeling-marketing-mix-using-smoothing-splines-98dc8e84c367)
 
 * [Improving Marketing Mix Modeling Using Machine Learning Approaches](https://towardsdatascience.com/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b)
+
 * [Modeling Marketing Mix with Constrained Coefficients](https://towardsdatascience.com/modeling-marketing-mix-with-constrained-coefficients-234b23190ee2)
 
 * [Practical Approaches to Optimizng Budget in Marketing Mix Modeling](https://medium.com/towards-data-science/practical-approaches-to-optimizng-budget-in-marketing-mix-modeling-7816a27f2f71)
+
+* [Exploring Different Approaches to Generate Response Curves in Marketing Mix Modeling](https://medium.com/towards-data-science/exploring-different-approaches-to-generate-response-curves-in-marketing-mix-modeling-ff6dcc7927f7)
