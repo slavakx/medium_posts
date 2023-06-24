@@ -17,3 +17,5 @@ Repository containing notebooks of my posts on <a href='https://medium.com/@slav
 * [Practical Approaches to Optimizng Budget in Marketing Mix Modeling](https://medium.com/towards-data-science/practical-approaches-to-optimizng-budget-in-marketing-mix-modeling-7816a27f2f71)
 
 * [Exploring Different Approaches to Generate Response Curves in Marketing Mix Modeling](https://medium.com/towards-data-science/exploring-different-approaches-to-generate-response-curves-in-marketing-mix-modeling-ff6dcc7927f7)
+
+* [Understanding Bayesian Marketing Mix Modeling: A Deep Dive into Prior Specifications](https://medium.com/towards-data-science/understanding-bayesian-marketing-mix-modeling-a-deep-dive-into-prior-specifications-af400adb836e)
